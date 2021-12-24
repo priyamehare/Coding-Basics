@@ -10,7 +10,7 @@ int main(){
   printf("Enter number:");
   scanf("%d", &n);
   
-  //Lopp for rows
+  //Loop for rows
   for(int i=1; i<=n; i++)
   {
       // Add Starting Spaces
