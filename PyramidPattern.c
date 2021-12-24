@@ -5,6 +5,8 @@ Program to print PYRAMID Pattern
 #include<stdio.h>
 int main(){
   int n;
+  
+  // Get value for Pyramid height from user.
   printf("Enter number:");
   scanf("%d", &n);
   
